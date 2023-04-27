@@ -1,0 +1,20 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+  }
+
+  h3{
+
+    font-size:25px !important;
+    font-family:sans-serif;
+
+  }
+
+  canvas{
+    margin-top:85px;
+    border:2px dashed black;
+  }
